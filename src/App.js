@@ -8,6 +8,7 @@ export default function App() {
         <a 
         href="https://github.com/AR456789/react-homework-1"
         target="_blank"
+        rel="noreferrer"
         > This project was coded by Adelaide and is open-sourced </a>
       </footer>
       </div>
