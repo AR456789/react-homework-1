@@ -15,7 +15,7 @@ body {
     margin-bottom: 20px;
 }
 
-.Weather img {
+.Weather canvas {
     height: 85px;
     margin-right: 90px;
     display: inline-block;
