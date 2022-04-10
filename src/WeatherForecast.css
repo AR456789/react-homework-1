@@ -1,7 +1,15 @@
 .WeatherForecast {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .WeatherForecast-temperature-min {
     opacity: 0.6;
+}
+.WeatherForecast .col {
+    color: rgb(70, 51, 128);
+}
+
+ReactAnimatedWeather .icon {
+    color: pink;
 }
