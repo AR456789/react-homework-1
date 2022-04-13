@@ -26,7 +26,9 @@ export default function WeatherForecast(props) {
                     if (index < 6) {
                         return (
                             <div className="col" key={index}>
+                    <div className="Weather-Icons"> 
                     <WeatherForecastDay data={dailyForecast}/>
+                    </div>
                 </div>
                         );
                     } else {return null;}
