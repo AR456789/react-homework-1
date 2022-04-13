@@ -1,27 +1,25 @@
 .WeatherForecast {
     text-align: center;
     margin-bottom: 30px;
-    background-color: aquamarine;
     background-color: rgb(135, 135, 135);
     border: 3px solid;
     border-radius: 30px;
     height: 225px;
+    font-weight: bold;
 }
 
 .WeatherForecast-temperature-min {
     opacity: 0.6;
 }
 .WeatherForecast .col {
-    background-color:  none;
-    color: rgb(70, 51, 128);
+    
 
 }
 
 .WeatherForecast-day {
-    
+    text-decoration: underline;
 }
 
 .WeatherForecast .Weather-Icons {
-    
 }
 
