@@ -31,7 +31,7 @@ body {
     
 
 .Weather .button:hover {
-    background-color: green;
+    background-color: rgb(135, 135, 135);
 }
 .Weather form {
     margin-bottom: 20px;

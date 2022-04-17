@@ -11,15 +11,15 @@
 .WeatherForecast-temperature-min {
     opacity: 0.6;
 }
-.WeatherForecast .col {
-    
 
+.WeatherForecast-temperature-min-Fahrenheit {
+    opacity: 0.6;
 }
+
 
 .WeatherForecast-day {
     text-decoration: underline;
 }
 
-.WeatherForecast .Weather-Icons {
-}
+
 
