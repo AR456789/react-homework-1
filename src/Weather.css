@@ -1,7 +1,7 @@
 body {
     background: linear-gradient(109.6deg, rgb(255, 221, 225) 11.2%, rgb(255, 255, 255) 92.2%);
-    background-image: url("./sunset.png");
-    background-size:cover;
+    /* background-image: url("./sunset.png");
+    background-size:cover; */
 }
 
 .Weather {
